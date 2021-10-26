@@ -146,6 +146,7 @@
     <ClCompile Include="..\..\..\FreeRTOS\Source\stream_buffer.c" />
     <ClCompile Include="..\..\..\FreeRTOS\Source\tasks.c" />
     <ClCompile Include="..\..\..\FreeRTOS\Source\timers.c" />
+    <ClCompile Include="..\..\Source\Utilities\mbedtls_freertos\mbedtls_bio_freertos_plus_tcp.c" />
     <ClCompile Include="..\..\ThirdParty\mbedtls\library\aes.c" />
     <ClCompile Include="..\..\ThirdParty\mbedtls\library\aesni.c" />
     <ClCompile Include="..\..\ThirdParty\mbedtls\library\arc4.c" />
